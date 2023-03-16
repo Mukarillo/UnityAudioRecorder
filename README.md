@@ -55,7 +55,7 @@ public class Exemple : MonoBehaviour
 > `AudioRecorder.StopRecording`
 - *Description*: Stops recording and do not callback.
 
-> `DebugConsole.EndRecording`
+> `AudioRecorder.EndRecording`
 - *Description*: Stops recording and callback.
 
 ## External tools
